@@ -1,0 +1,1176 @@
+[
+  {
+    "episode":"1 (0)",
+    "title":"Pilot",
+    "guests":"Bill Bailey, Kit Hesketh-Harvey, Eddie Izzard",
+    "winner":"Bill Bailey",
+    "airdate":"N/A "
+  },
+  {
+    "episode":"1 (1)",
+    "title":"Adam",
+    "guests":"Danny Baker, Hugh Laurie, John Sessions",
+    "winner":"Danny Baker",
+    "airdate":"9/11/2003"
+  },
+  {
+    "episode":"2 (2)",
+    "title":"Astronomy",
+    "guests":"Bill Bailey, Rich Hall, Jeremy Hardy",
+    "winner":"Rich Hall and Jeremy Hardy",
+    "airdate":"9/18/2003"
+  },
+  {
+    "episode":"3 (3)",
+    "title":"Aquatic Animals",
+    "guests":"Clive Anderson, Bill Bailey, Meera Syal",
+    "winner":"Clive Anderson",
+    "airdate":"9/25/2003"
+  },
+  {
+    "episode":"4 (4)",
+    "title":"Atoms",
+    "guests":"Jo Brand, Howard Goodall, Jeremy Hardy",
+    "winner":"Jo Brand",
+    "airdate":"10/2/2003"
+  },
+  {
+    "episode":"5 (5)",
+    "title":"Advertising",
+    "guests":"Gyles Brandreth, Rob Brydon, Rich Hall",
+    "winner":"Gyles Brandreth",
+    "airdate":"10/9/2003"
+  },
+  {
+    "episode":"6 (6)",
+    "title":"Antidotes",
+    "guests":"Danny Baker, Jo Brand, Howard Goodall",
+    "winner":"Danny Baker",
+    "airdate":"10/16/2003"
+  },
+  {
+    "episode":"7 (7)",
+    "title":"Arthropods",
+    "guests":"Jo Brand, Jimmy Carr, Jackie Clune",
+    "winner":"Jackie Clune",
+    "airdate":"10/23/2003"
+  },
+  {
+    "episode":"8 (8)",
+    "title":"Albania",
+    "guests":"Clive Anderson, Sean Lock, Linda Smith",
+    "winner":"Clive Anderson",
+    "airdate":"10/30/2003"
+  },
+  {
+    "episode":"9 (9)",
+    "title":"Africa",
+    "guests":"Jo Brand, Dave Gorman, Jeremy Hardy",
+    "winner":"Dave Gorman",
+    "airdate":"11/6/2003"
+  },
+  {
+    "episode":"10 (10)",
+    "title":"Aviation",
+    "guests":"Rich Hall, Julia Morris, Peter Serafinowicz",
+    "winner":"Alan Davies",
+    "airdate":"11/13/2003"
+  },
+  {
+    "episode":"11 (11)",
+    "title":"Arts",
+    "guests":"Bill Bailey, Richard E. Grant, Linda Smith",
+    "winner":"Richard E. Grant",
+    "airdate":"11/20/2003"
+  },
+  {
+    "episode":"12 (12)",
+    "title":"Advent (Christmas Special)",
+    "guests":"Phill Jupitus, Sean Lock, John Sessions",
+    "winner":"John Sessions",
+    "airdate":"12/23/2003"
+  },
+  {
+    "episode":"1 (13)",
+    "title":"Blue",
+    "guests":"Bill Bailey, Jo Brand, Sean Lock",
+    "winner":"Sean Lock",
+    "airdate":"8 October 2004"
+  },
+  {
+    "episode":"2 (14)",
+    "title":"Birds",
+    "guests":"Jo Brand, Rich Hall, Phil Kay",
+    "winner":"Rich Hall",
+    "airdate":"10/8/2004"
+  },
+  {
+    "episode":"3 (15)",
+    "title":"Bombs",
+    "guests":"Clive Anderson, Rich Hall, Phill Jupitus",
+    "winner":"Phill Jupitus",
+    "airdate":"10/15/2004"
+  },
+  {
+    "episode":"4 (16)",
+    "title":"Bible",
+    "guests":"Jeremy Clarkson, Barry Cryer, Jeremy Hardy",
+    "winner":"Jeremy Clarkson",
+    "airdate":"10/22/2004"
+  },
+  {
+    "episode":"5 (17)",
+    "title":"Bears",
+    "guests":"Bill Bailey, Jo Brand, Jimmy Carr",
+    "winner":"Jimmy Carr",
+    "airdate":"10/29/2004"
+  },
+  {
+    "episode":"6 (18)",
+    "title":"Beavers",
+    "guests":"Bill Bailey, Sean Lock, Anneka Rice",
+    "winner":"Anneka Rice",
+    "airdate":"11/5/2004"
+  },
+  {
+    "episode":"7 (19)",
+    "title":"Biscuits",
+    "guests":"Rich Hall, Dara Ó Briain, Arthur Smith",
+    "winner":"Dara Ó Briain",
+    "airdate":"11/12/2004"
+  },
+  {
+    "episode":"8 (20)",
+    "title":"Bees",
+    "guests":"Jo Brand, Rich Hall, Fred MacAulay",
+    "winner":"Rich Hall",
+    "airdate":"11/19/2004"
+  },
+  {
+    "episode":"9 (21)",
+    "title":"Bats",
+    "guests":"Rich Hall, Josie Lawrence, John Sessions",
+    "winner":"Rich Hall and Josie Lawrence",
+    "airdate":"11/26/2004"
+  },
+  {
+    "episode":"10 (22)",
+    "title":"Bills",
+    "guests":"Clive Anderson, Phil Kay, John Sessions",
+    "winner":"Clive Anderson",
+    "airdate":"12/3/2004"
+  },
+  {
+    "episode":"11 (23)",
+    "title":"Beats",
+    "guests":"Mark Gatiss, Sean Lock, Linda Smith",
+    "winner":"Linda Smith",
+    "airdate":"12/10/2004"
+  },
+  {
+    "episode":"12 (24)",
+    "title":"Birth (Christmas Special)",
+    "guests":"Rich Hall, Phill Jupitus, Mark Steel",
+    "winner":"Rich Hall",
+    "airdate":"12/17/2004"
+  },
+  {
+    "episode":"1 (25)",
+    "title":"Campanology",
+    "guests":"Bill Bailey, Rob Brydon, Rich Hall",
+    "winner":"Rich Hall",
+    "airdate":"30 September 2005"
+  },
+  {
+    "episode":"2 (26)",
+    "title":"Cummingtonite",
+    "guests":"Andy Hamilton, Doon Mackichan, Arthur Smith",
+    "winner":"Andy Hamilton",
+    "airdate":"9/30/2005"
+  },
+  {
+    "episode":"3 (27)",
+    "title":"Common Knowledge",
+    "guests":"Jimmy Carr, Sean Lock, Rory McGrath",
+    "winner":"Rory McGrath",
+    "airdate":"10/7/2005"
+  },
+  {
+    "episode":"4 (28)",
+    "title":"Cheating",
+    "guests":"Alexander Armstrong, Jeremy Clarkson, John Sessions",
+    "winner":"Alexander Armstrong",
+    "airdate":"10/14/2005"
+  },
+  {
+    "episode":"5 (29)",
+    "title":"Cat's Eyes",
+    "guests":"Jo Brand, Rich Hall, Sean Lock",
+    "winner":"Sean Lock",
+    "airdate":"10/21/2005"
+  },
+  {
+    "episode":"6 (30)",
+    "title":"Cockneys",
+    "guests":"Bill Bailey, Phill Jupitus, Rory McGrath",
+    "winner":"Bill Bailey",
+    "airdate":"10/28/2005"
+  },
+  {
+    "episode":"7 (31)",
+    "title":"Constellations",
+    "guests":"Jeremy Clarkson, Rich Hall, Sean Lock",
+    "winner":"Jeremy Clarkson",
+    "airdate":"11/4/2005"
+  },
+  {
+    "episode":"8 (32)",
+    "title":"Corby",
+    "guests":"Bill Bailey, Phill Jupitus, David Mitchell",
+    "winner":"David Mitchell",
+    "airdate":"11/11/2005"
+  },
+  {
+    "episode":"9 (33)",
+    "title":"Creatures",
+    "guests":"Helen Atkinson-Wood, Bill Bailey, Andy Hamilton",
+    "winner":"Helen Atkinson-Wood",
+    "airdate":"11/18/2005"
+  },
+  {
+    "episode":"10 (34)",
+    "title":"Cleve Crudgington",
+    "guests":"Clive Anderson, John Sessions, Mark Steel",
+    "winner":"Mark Steel",
+    "airdate":"11/25/2005"
+  },
+  {
+    "episode":"11 (35)",
+    "title":"Carnival",
+    "guests":"Clive Anderson, Jo Brand, Phill Jupitus",
+    "winner":"Clive Anderson",
+    "airdate":"12/2/2005"
+  },
+  {
+    "episode":"12 (36)",
+    "title":"Combustion",
+    "guests":"Bill Bailey, Phill Jupitus, Dara Ó Briain",
+    "winner":"Bill Bailey",
+    "airdate":"12/9/2005"
+  },
+
+  {
+    "episode":"1 (37)",
+    "title":"Danger",
+    "guests":"Jo Brand, Jimmy Carr, Sean Lock",
+    "winner":"Jo Brand",
+    "airdate":"29 September 2006"
+  },
+  {
+    "episode":"2 (38)",
+    "title":"Discoveries",
+    "guests":"Clive Anderson, Vic Reeves, Arthur Smith",
+    "winner":"Vic Reeves",
+    "airdate":"9/29/2006"
+  },
+  {
+    "episode":"3 (39)",
+    "title":"Dogs",
+    "guests":"Jeremy Clarkson, Neil Mullarkey, Liza Tarbuck",
+    "winner":"Neil Mullarkey",
+    "airdate":"10/6/2006"
+  },
+  {
+    "episode":"4 (40)",
+    "title":"Dictionaries",
+    "guests":"Ronni Ancona, Rory Bremner, Phill Jupitus",
+    "winner":"Ronni Ancona",
+    "airdate":"10/13/2006"
+  },
+  {
+    "episode":"5 (41)",
+    "title":"Death (Hallowe'en Special)",
+    "guests":"Clive Anderson, Sean Lock, Andy Parsons",
+    "winner":"The Audience",
+    "airdate":"10/20/2006"
+  },
+  {
+    "episode":"6 (42)",
+    "title":"Drinks",
+    "guests":"Jimmy Carr, Phill Jupitus, John Sessions",
+    "winner":"Alan Davies",
+    "airdate":"10/27/2006"
+  },
+  {
+    "episode":"7 (43)",
+    "title":"Differences",
+    "guests":"Jo Brand, Julian Clary, Dara Ó Briain",
+    "winner":"Dara Ó Briain",
+    "airdate":"11/3/2006"
+  },
+  {
+    "episode":"8 (44)",
+    "title":"Descendants (Children in Need Special)",
+    "guests":"Rich Hall, Phill Jupitus, Jonathan Ross",
+    "winner":"Jonathan Ross",
+    "airdate":"11/10/2006"
+  },
+  {
+    "episode":"9 (45)",
+    "title":"Doves",
+    "guests":"Andy Hamilton, David Mitchell, John Sessions",
+    "winner":"Alan Davies",
+    "airdate":"11/17/2006"
+  },
+  {
+    "episode":"10 (46)",
+    "title":"Divination",
+    "guests":"Graeme Garden, Phill Jupitus, Johnny Vaughan",
+    "winner":"Graeme Garden",
+    "airdate":"11/24/2006"
+  },
+  {
+    "episode":"11 (47)",
+    "title":"Denial and Deprivation",
+    "guests":"Roger McGough, Vic Reeves, Mark Steel",
+    "winner":"Roger McGough and Vic Reeves",
+    "airdate":"12/1/2006"
+  },
+  {
+    "episode":"12 (48)",
+    "title":"Domesticity",
+    "guests":"Jo Brand, Phill Jupitus, Jessica Stevenson",
+    "winner":"Jessica Stevenson",
+    "airdate":"12/8/2006"
+  },
+  {
+    "episode":"13 (49)",
+    "title":"December (Christmas Special)",
+    "guests":"Jo Brand, Rich Hall, Dara Ó Briain",
+    "winner":"Dara Ó Briain",
+    "airdate":"12/15/2006"
+  },
+
+  {
+    "episode":"1 (50)",
+    "title":"Engineering",
+    "guests":"Bill Bailey, Rob Brydon, Jimmy Carr",
+    "winner":"Rob Brydon",
+    "airdate":"21 September 2007"
+  },
+  {
+    "episode":"2 (51)",
+    "title":"Electricity",
+    "guests":"Jo Brand, Rich Hall, Sean Lock",
+    "winner":"Jo Brand",
+    "airdate":"9/21/2007"
+  },
+  {
+    "episode":"3 (52)",
+    "title":"Eating",
+    "guests":"Jimmy Carr, Phill Jupitus, Johnny Vegas",
+    "winner":"Alan Davies",
+    "airdate":"9/28/2007"
+  },
+  {
+    "episode":"4 (53)",
+    "title":"Exploration",
+    "guests":"Bill Bailey, Rich Hall, Sean Lock",
+    "winner":"Rich Hall",
+    "airdate":"10/5/2007"
+  },
+  {
+    "episode":"5 (54)",
+    "title":"Europe",
+    "guests":"Phill Jupitus, David Mitchell, Dara Ó Briain",
+    "winner":"Phill Jupitus",
+    "airdate":"10/12/2007"
+  },
+  {
+    "episode":"6 (55)",
+    "title":"Everything, Etc.",
+    "guests":"Clive Anderson, Jeremy Clarkson, Vic Reeves",
+    "winner":"Vic Reeves",
+    "airdate":"10/19/2007"
+  },
+  {
+    "episode":"7 (56)",
+    "title":"Espionage",
+    "guests":"Clive Anderson, Jo Brand, Vic Reeves",
+    "winner":"Clive Anderson and Vic Reeves",
+    "airdate":"10/26/2007"
+  },
+  {
+    "episode":"8 (57)",
+    "title":"Eyes and Ears",
+    "guests":"Jimmy Carr, Phill Jupitus, David Mitchell",
+    "winner":"Alan Davies",
+    "airdate":"11/2/2007"
+  },
+  {
+    "episode":"9 (58)",
+    "title":"Entertainment (Children in Need Special)",
+    "guests":"Bill Bailey, Jo Brand, Jeremy Clarkson",
+    "winner":"Jeremy Clarkson",
+    "airdate":"11/9/2007"
+  },
+  {
+    "episode":"10 (59)",
+    "title":"England",
+    "guests":"Charlie Higson, Phill Jupitus, Sean Lock",
+    "winner":"The Audience",
+    "airdate":"11/16/2007"
+  },
+  {
+    "episode":"11 (60)",
+    "title":"Endings",
+    "guests":"Jimmy Carr, Doon Mackichan, Dara Ó Briain",
+    "winner":"Jimmy Carr and Dara Ó Briain",
+    "airdate":"11/23/2007"
+  },
+  {
+    "episode":"12 (61)",
+    "title":"Empire (Christmas Special)",
+    "guests":"Bill Bailey, Jo Brand, Sean Lock",
+    "winner":"Alan Davies",
+    "airdate":"12/7/2007"
+  },
+  {
+    "episode":"13",
+    "title":"Elephants (Compilation Show)",
+    "guests":"N/A",
+    "winner":"N/A",
+    "airdate":"12/14/2007"
+  },
+
+  {
+    "episode":"1 (62)",
+    "title":"Families (Children in Need Special)",
+    "guests":"Ronni Ancona, David Mitchell, Sir Terry Wogan",
+    "winner":"Ronni Ancona",
+    "airdate":"11/14/2008"
+  },
+  {
+    "episode":"2 (63)",
+    "title":"Fire and Freezing (Christmas Special)",
+    "guests":"Clive Anderson, Rob Brydon, Dom Joly",
+    "winner":"Clive Anderson",
+    "airdate":"12/22/2008"
+  },
+  {
+    "episode":"3 (64)",
+    "title":"Flotsam and Jetsam",
+    "guests":"Rob Brydon, Andy Hamilton, Charlie Higson",
+    "winner":"Charlie Higson",
+    "airdate":"9 January 2009, 10 January 2009 (XL edition)"
+  },
+  {
+    "episode":"4 (65)",
+    "title":"Fight or Flight",
+    "guests":"Pam Ayres, Sean Lock, Johnny Vegas",
+    "winner":"Pam Ayres",
+    "airdate":"16 January 2009, 17 January 2009 (XL edition)"
+  },
+  {
+    "episode":"5 (66)",
+    "title":"France",
+    "guests":"Jo Brand, Hugh Dennis, Phill Jupitus",
+    "winner":"Hugh Dennis",
+    "airdate":"23 January 2009, 24 January 2009 (XL edition)"
+  },
+  {
+    "episode":"6 (67)",
+    "title":"Fakes and Frauds",
+    "guests":"Marcus Brigstocke, Jimmy Carr, Sean Lock",
+    "winner":"Sean Lock",
+    "airdate":"30 January 2009, 31 January 2009 (XL edition)"
+  },
+  {
+    "episode":"7 (68)",
+    "title":"Fingers and Fumbs",
+    "guests":"Jo Brand, Phill Jupitus, Dara Ó Briain",
+    "winner":"Phill Jupitus",
+    "airdate":"6 February 2009, 7 February 2009 (XL edition)"
+  },
+  {
+    "episode":"8 (69)",
+    "title":"Fashion",
+    "guests":"Clive Anderson, Rich Hall, Reginald D. Hunter",
+    "winner":"Rich Hall",
+    "airdate":"13 February 2009, 14 February 2009 (XL edition)"
+  },
+  {
+    "episode":"9 (70)",
+    "title":"The Future",
+    "guests":"Rob Brydon, Sean Lock, Ben Miller",
+    "winner":"Ben Miller",
+    "airdate":"20 February 2009, 21 February 2009 (XL edition)"
+  },
+  {
+    "episode":"10 (71)",
+    "title":"Flora and Fauna",
+    "guests":"Jo Brand, Jimmy Carr, John Sergeant",
+    "winner":"The Audience",
+    "airdate":"27 February 2009, 28 February 2009 (XL edition)"
+  },
+  {
+    "episode":"11 (72)",
+    "title":"Films and Fame",
+    "guests":"David Mitchell, John Sessions, Emma Thompson",
+    "winner":"Alan Davies",
+    "airdate":"6 March 2009, 7 March 2009 (XL edition)"
+  },
+  {
+    "episode":"12 (73)",
+    "title":"Food",
+    "guests":"Jimmy Carr, Rich Hall, David Mitchell",
+    "winner":"David Mitchell",
+    "airdate":"20 March 2009 , 21 March 2009 (XL edition)"
+  },
+
+  {
+    "episode":"1 (74)",
+    "title":"Gardens",
+    "guests":"Rob Brydon, David Mitchell, Dara Ó Briain",
+    "winner":"David Mitchell and Dara Ó Briain",
+    "airdate":"26 November 2009, 20 March 2010 (XL edition)"
+  },
+  {
+    "episode":"2 (75)",
+    "title":"G-Animals",
+    "guests":"Bill Bailey, John Hodgman, Sean Lock, Sandi Toksvig",
+    "winner":"John Hodgman",
+    "airdate":"3 December 2009, 12 October 2010 (XL edition)[17]"
+  },
+  {
+    "episode":"3 (76)",
+    "title":"Games",
+    "guests":"Phill Jupitus, Sean Lock, Liza Tarbuck",
+    "winner":"Liza Tarbuck",
+    "airdate":"10 December 2009, 19 October 2010 (XL edition)"
+  },
+  {
+    "episode":"4 (77)",
+    "title":"Geography",
+    "guests":"Jo Brand, Rob Brydon, Jimmy Carr",
+    "winner":"Alan Davies",
+    "airdate":"17 December 2009, 23 December 2009 (XL edition)"
+  },
+  {
+    "episode":"5 (78)",
+    "title":"Groovy (Christmas Special)",
+    "guests":"Bill Bailey, Lee Mack, David Tennant",
+    "winner":"Alan Davies",
+    "airdate":"24 December 2009, 29 December 2009 (XL edition)"
+  },
+  {
+    "episode":"6 (79)",
+    "title":"Genius",
+    "guests":"David Mitchell, Graham Norton, Dara Ó Briain",
+    "winner":"Alan Davies",
+    "airdate":"1 January 2010, 2 January 2010 (XL edition)"
+  },
+  {
+    "episode":"7 (80)",
+    "title":"Girls and Boys",
+    "guests":"Ronni Ancona, Jack Dee, Sandi Toksvig",
+    "winner":"The Girls",
+    "airdate":"8 January 2010, 9 January 2010 (XL edition)"
+  },
+  {
+    "episode":"8 (81)",
+    "title":"Germany",
+    "guests":"Jo Brand, Rob Brydon, Sean Lock",
+    "winner":"Jo Brand",
+    "airdate":"15 January 2010, 16 January 2010 (XL edition)"
+  },
+  {
+    "episode":"9 (82)",
+    "title":"Gallimaufrey",
+    "guests":"Hugh Dennis, Andy Hamilton, Phill Jupitus",
+    "winner":"Hugh Dennis",
+    "airdate":"22 January 2010, 23 January 2010 (XL edition)"
+  },
+  {
+    "episode":"10 (83)",
+    "title":"Greats",
+    "guests":"Jo Brand, Sean Lock, David Mitchell",
+    "winner":"David Mitchell",
+    "airdate":"29 January 2010, 30 January 2010 (XL edition)"
+  },
+  {
+    "episode":"11 (84)",
+    "title":"Gifts",
+    "guests":"Clive Anderson, Jimmy Carr, Jan Ravens",
+    "winner":"Jan Ravens",
+    "airdate":"5 February 2010, 6 February 2010 (XL edition)"
+  },
+  {
+    "episode":"12 (85)",
+    "title":"Gravity",
+    "guests":"Bill Bailey, Rich Hall, Barry Humphries",
+    "winner":"Alan Davies and Rich Hall",
+    "airdate":"12 February 2010, 13 February 2010 (XL edition)"
+  },
+  {
+    "episode":"13 (86)",
+    "title":"Gothic",
+    "guests":"Jimmy Carr, Jack Dee, Sue Perkins",
+    "winner":"Alan Davies and Jack Dee",
+    "airdate":"19 February 2010, 20 February 2010 (XL edition)"
+  },
+  {
+    "episode":"14 (87)",
+    "title":"Greeks",
+    "guests":"Clive Anderson, Rich Hall, Phill Jupitus",
+    "winner":"Clive Anderson (QI) /, The Audience (QI XL)",
+    "airdate":"5 March 2010, 6 March 2010 (XL edition)"
+  },
+  {
+    "episode":"15 (88)",
+    "title":"Green",
+    "guests":"Bill Bailey, Danny Baker, Jeremy Clarkson",
+    "winner":"Bill Bailey",
+    "airdate":"26 March 2010, 22 February 2011 (XL edition)[19]"
+  },
+  {
+    "episode":"16 (89)",
+    "title":"Geometry",
+    "guests":"Rob Brydon, David Mitchell, Johnny Vegas",
+    "winner":"Alan Davies",
+    "airdate":"2 April 2010, 22 February 2011 (XL edition)"
+  },
+  {
+    "episode":"17",
+    "title":"*QI VG*: Series G Compilation Show 1",
+    "guests":"N/A",
+    "winner":"N/A",
+    "airdate":"4/5/2010"
+  },
+  {
+    "episode":"18",
+    "title":"*QI VG*: Series G Compilation Show 2",
+    "guests":"N/A",
+    "winner":"N/A",
+    "airdate":"4/16/2010"
+  },
+  {
+    "episode":"1 (90)",
+    "title":"Hodge Podge",
+    "guests":"Jack Dee, Phill Jupitus, Ross Noble",
+    "winner":"Jack Dee",
+    "airdate":"17 September 2010, 18 September 2010 (XL edition)"
+  },
+  {
+    "episode":"2 (91)",
+    "title":"Hanatomy",
+    "guests":"Bill Bailey, Gyles Brandreth, Sue Perkins",
+    "winner":"Gyles Brandreth and Sue Perkins",
+    "airdate":"24 September 2010, 25 September 2010 (XL edition)"
+  },
+  {
+    "episode":"3 (92)",
+    "title":"Hoaxes",
+    "guests":"Danny Baker, Sean Lock, David Mitchell",
+    "winner":"Sean Lock",
+    "airdate":"1 October 2010, 2 October 2010 (XL edition)"
+  },
+  {
+    "episode":"4 (93)",
+    "title":"Humans",
+    "guests":"Jo Brand, Jimmy Carr, Jack Dee",
+    "winner":"Jo Brand",
+    "airdate":"8 October 2010, 9 October 2010 (XL edition)"
+  },
+  {
+    "episode":"5 (94)",
+    "title":"Hanimals",
+    "guests":"Sean Lock, Ross Noble, Ruby Wax",
+    "winner":"Ross Noble",
+    "airdate":"15 October 2010, 16 October 2010 (XL edition)"
+  },
+  {
+    "episode":"6 (95)",
+    "title":"Happiness",
+    "guests":"Rich Hall, Andy Hamilton, Phill Jupitus",
+    "winner":"Phill Jupitus",
+    "airdate":"22 October 2010, 23 October 2010 (XL edition)"
+  },
+  {
+    "episode":"7 (96)",
+    "title":"Horrible (Halloween Special)",
+    "guests":"Chris Addison, Sean Lock, Dara Ó Briain",
+    "winner":"Dara Ó Briain",
+    "airdate":"29 October 2010, 20 November 2010 (XL edition)"
+  },
+  {
+    "episode":"8 (97)",
+    "title":"Hypothetical",
+    "guests":"John Lloyd, Sandi Toksvig, Johnny Vegas",
+    "winner":"Sandi Toksvig",
+    "airdate":"5 November 2010, 22 January 2011 (XL edition)"
+  },
+  {
+    "episode":"9 (98)",
+    "title":"House and Home",
+    "guests":"Bill Bailey, Danny Baker, Eddie Izzard",
+    "winner":"Bill Bailey",
+    "airdate":"12 November 2010, 29 January 2011 (XL edition)"
+  },
+  {
+    "episode":"10 (99)",
+    "title":"Health and Safety",
+    "guests":"Jeremy Clarkson, David Mitchell, Ross Noble",
+    "winner":"David Mitchell",
+    "airdate":"26 November 2010, 27 November 2010 (XL edition)"
+  },
+  {
+    "episode":"11 (100)",
+    "title":"Highs and Lows",
+    "guests":"Rob Brydon, Fred MacAulay, Sandi Toksvig",
+    "winner":"Fred MacAulay",
+    "airdate":"3 December 2010, 4 December 2010 (XL edition)"
+  },
+  {
+    "episode":"12 (101)",
+    "title":"Horses & Hunting",
+    "guests":"Clare Balding, Jimmy Carr, Dara Ó Briain",
+    "winner":"Clare Balding",
+    "airdate":"10 December 2010, 11 December 2010 (XL edition)"
+  },
+  {
+    "episode":"13 (102)",
+    "title":"Holidays",
+    "guests":"Bill Bailey, Rob Brydon, Rich Hall",
+    "winner":"Rob Brydon",
+    "airdate":"17 December 2010, 18 December 2010 (XL edition)"
+  },
+  {
+    "episode":"14 (103)",
+    "title":"Hocus Pocus (Christmas Special)",
+    "guests":"Lee Mack, Graham Norton, Daniel Radcliffe",
+    "winner":"Daniel Radcliffe",
+    "airdate":"24 December 2010, 29 December 2010 (XL edition)"
+  },
+  {
+    "episode":"15 (104)",
+    "title":"Hypnosis, Hallucinations & Hysteria",
+    "guests":"Ronni Ancona, Phill Jupitus, Robert Webb",
+    "winner":"Phill Jupitus",
+    "airdate":"7 January 2011, 8 January 2011 (XL edition)"
+  },
+  {
+    "episode":"16 (105)",
+    "title":"History",
+    "guests":"Rob Brydon, David Mitchell, Sandi Toksvig",
+    "winner":"Rob Brydon",
+    "airdate":"14 January 2011, 15 January 2011 (XL edition)"
+  },
+  {
+    "episode":"17",
+    "title":"*QI VG*: Series H Compilation Show 1",
+    "guests":"N/A",
+    "winner":"N/A",
+    "airdate":"4/25/2011"
+  },
+  {
+    "episode":"18",
+    "title":"*QI VG*: Series H Compilation Show 2",
+    "guests":"N/A",
+    "winner":"N/A",
+    "airdate":"5/2/2011"
+  },
+  {
+    "episode":"N/A",
+    "title":"Comic Relief special",
+    "guests":"Jo Brand, Sue Perkins, Russell Tovey, David Walliams",
+    "winner":"David Walliams",
+    "airdate":"3/6/2011"
+  },
+  {
+    "episode":"1 (106)",
+    "title":"I-Spy",
+    "guests":"Jimmy Carr, Lee Mack, Sandi Toksvig",
+    "winner":"Sandi Toksvig",
+    "airdate":"9 September 2011, 10 September 2011 (XL edition)"
+  },
+  {
+    "episode":"2 (107)",
+    "title":"International",
+    "guests":"Bill Bailey, Jack Dee, David Mitchell",
+    "winner":"Bill Bailey",
+    "airdate":"16 September 2011, 17 September 2011 (XL edition)"
+  },
+  {
+    "episode":"3 (108)",
+    "title":"Imbroglio",
+    "guests":"John Bishop, Sean Lock, Frank Skinner",
+    "winner":"John Bishop and Frank Skinner",
+    "airdate":"23 September 2011, 24 September 2011 (XL edition)"
+  },
+  {
+    "episode":"4 (109)",
+    "title":"Indecision",
+    "guests":"Jimmy Carr, Rich Hall, Phill Jupitus",
+    "winner":"Phill Jupitus",
+    "airdate":"30 September 2011, 1 October 2011 (XL edition)"
+  },
+  {
+    "episode":"5 (110)",
+    "title":"Invertebrates",
+    "guests":"Jimmy Carr, Sarah Millican, Johnny Vegas",
+    "winner":"Johnny Vegas",
+    "airdate":"7 October 2011, 8 October 2011 (XL edition)"
+  },
+  {
+    "episode":"6 (111)",
+    "title":"Inventive",
+    "guests":"Bill Bailey, Nina Conti, Sean Lock",
+    "winner":"Nina Conti",
+    "airdate":"14 October 2011, 15 October 2011 (XL edition)"
+  },
+  {
+    "episode":"7 (112)",
+    "title":"Incomprehensible",
+    "guests":"Prof. Brian Cox, Ross Noble, Sue Perkins",
+    "winner":"Prof. Brian Cox",
+    "airdate":"21 October 2011, 22 October 2011 (XL edition)"
+  },
+  {
+    "episode":"8 (113)",
+    "title":"Inequality",
+    "guests":"Clive Anderson, Sandi Toksvig, Henning Wehn",
+    "winner":"*Not stated*",
+    "airdate":"28 October 2011, 29 October 2011 (XL edition)"
+  },
+  {
+    "episode":"9 (114)",
+    "title":"Illness",
+    "guests":"Jo Brand, Dr. Ben Goldacre, Andy Hamilton",
+    "winner":"Andy Hamilton",
+    "airdate":"4 November 2011, 5 November 2011 (XL edition)"
+  },
+  {
+    "episode":"10 (115)",
+    "title":"Inland Revenue",
+    "guests":"Al Murray, Dara Ó Briain, Sandi Toksvig",
+    "winner":"Sandi Toksvig",
+    "airdate":"11 November 2011, 12 November 2011 (XL edition)"
+  },
+  {
+    "episode":"11 (116)",
+    "title":"Infantile",
+    "guests":"Ronni Ancona, Dave Gorman, Lee Mack",
+    "winner":"Dave Gorman",
+    "airdate":"29 December 2011, 19 November 2011 (XL edition)"
+  },
+  {
+    "episode":"12 (117)",
+    "title":"Illumination",
+    "guests":"Chris Addison, Jack Dee, Rich Hall",
+    "winner":"Rich Hall",
+    "airdate":"25 November 2011, 26 November 2011 (XL edition)"
+  },
+  {
+    "episode":"13 (118)",
+    "title":"Intelligence",
+    "guests":"Jo Brand, Phill Jupitus, David Mitchell",
+    "winner":"ASIMO",
+    "airdate":"2 December 2011, 3 December 2011 (XL edition)"
+  },
+  {
+    "episode":"14",
+    "title":"*QI VG*: Series I Compilation Show 1",
+    "guests":"N/A",
+    "winner":"N/A",
+    "airdate":"12/16/2011"
+  },
+  {
+    "episode":"15",
+    "title":"*QI VG*: Series I Compilation Show 2",
+    "guests":"N/A",
+    "winner":"N/A",
+    "airdate":"12/23/2011"
+  },
+  {
+    "episode":"16 (119)",
+    "title":"Ice (Christmas Special)",
+    "guests":"Brian Blessed, Sean Lock, Ross Noble",
+    "winner":"Alan Davies",
+    "airdate":"29 December 2011, 30 December 2011 (XL edition)"
+  },
+  {
+    "episode":"17 (120)",
+    "title":"The Immortal Bard",
+    "guests":"Bill Bailey, David Mitchell, Sue Perkins",
+    "winner":"David Mitchell",
+    "airdate":"27 April 2012, 19 May 2012 (XL edition)"
+  },
+  {
+    "episode":"18 (121)",
+    "title":"Idleness",
+    "guests":"Jeremy Clarkson, Ross Noble, Dara Ó Briain",
+    "winner":"Alan Davies",
+    "airdate":"4 May 2012, 24 May 2012 (XL edition)"
+  },
+  {
+    "episode":"N/A",
+    "title":"Sport Relief special",
+    "guests":"Jimmy Carr, Lee Mack, Sandi Toksvig",
+    "winner":"Everyone",
+    "airdate":"3/23/2012"
+  },
+  {
+    "episode":"1 (122)",
+    "title":"Jargon",
+    "guests":"Bill Bailey, Jimmy Carr, Victoria Coren",
+    "winner":"Victoria Coren",
+    "airdate":"14 September 2012, 15 September 2012 (XL edition)"
+  },
+  {
+    "episode":"2 (123)",
+    "title":"Jam, Jelly and Juice",
+    "guests":"Jo Brand, Sue Perkins, Liza Tarbuck",
+    "winner":"Alan Davies",
+    "airdate":"21 September 2012, 22 September 2012 (XL edition)"
+  },
+  {
+    "episode":"3 (124)",
+    "title":"Journeys",
+    "guests":"Rob Brydon, Phill Jupitus, Cal Wilson",
+    "winner":"Alan Davies",
+    "airdate":"28 September 2012, 29 September 2012 (XL edition)"
+  },
+  {
+    "episode":"4 (125)",
+    "title":"Jack and Jill",
+    "guests":"Katy Brand, David Mitchell, Sue Perkins",
+    "winner":"David Mitchell",
+    "airdate":"5 October 2012, 6 October 2012 (XL edition)"
+  },
+  {
+    "episode":"5 (126)",
+    "title":"J-Places",
+    "guests":"Bill Bailey, Susan Calman, Sandi Toksvig",
+    "winner":"Susan Calman",
+    "airdate":"12 October 2012, 13 October 2012 (XL edition)"
+  },
+  {
+    "episode":"6 (127)",
+    "title":"Joints",
+    "guests":"Jimmy Carr, Jack Whitehall, Cal Wilson",
+    "winner":"Cal Wilson",
+    "airdate":"19 October 2012, 20 October 2012 (XL edition)"
+  },
+  {
+    "episode":"7 (128)",
+    "title":"Journalism",
+    "guests":"Shappi Khorsandi, Ross Noble, Johnny Vegas",
+    "winner":"Ross Noble",
+    "airdate":"26 October 2012, 27 October 2012 (XL edition)"
+  },
+  {
+    "episode":"8 (129)",
+    "title":"Jumble",
+    "guests":"Jo Brand, Dara Ó Briain, John Sessions",
+    "winner":"Stephen Fry",
+    "airdate":"2 November 2012, 3 November 2012 (XL edition)"
+  },
+  {
+    "episode":"9 (130)",
+    "title":"Jeopardy",
+    "guests":"Ross Noble, Sue Perkins, Julia Zemiro",
+    "winner":"Sue Perkins",
+    "airdate":"9 November 2012, 10 November 2012 (XL edition)"
+  },
+  {
+    "episode":"10 (131)",
+    "title":"Jungles",
+    "guests":"Reginald D. Hunter, David O'Doherty, Greg Proops",
+    "winner":"Reginald D. Hunter",
+    "airdate":"23 November 2012, 24 November 2012 (XL edition)"
+  },
+  {
+    "episode":"11 (132)",
+    "title":"Jumpers",
+    "guests":"Bill Bailey, Julian Clary, Ross Noble",
+    "winner":"Bill Bailey",
+    "airdate":"30 November 2012, 1 December 2012 (XL edition)"
+  },
+  {
+    "episode":"12 (133)",
+    "title":"Justice",
+    "guests":"Prof. Brian Cox, Rhys Darby, Jason Manford",
+    "winner":"Alan Davies",
+    "airdate":"7 December 2012, 8 December 2012 (XL edition)"
+  },
+  {
+    "episode":"13 (134)",
+    "title":"Jobs",
+    "guests":"The Rev. Richard Coles, Sarah Millican, David Mitchell",
+    "winner":"The Rev. Richard Coles",
+    "airdate":"14 December 2012, 16 December 2012 (XL edition)"
+  },
+  {
+    "episode":"14 (135)",
+    "title":"Jingle Bells (Christmas Special)",
+    "guests":"Danny Baker, Phill Jupitus, Sarah Millican",
+    "winner":"Danny Baker",
+    "airdate":"21 December 2012, 29 December 2012 (XL edition)"
+  },
+  {
+    "episode":"15",
+    "title":"*QI VG*: Series J Compilation Show 1",
+    "guests":"N/A",
+    "winner":"N/A",
+    "airdate":"12/28/2012"
+  },
+  {
+    "episode":"16",
+    "title":"*QI VG*: Series J Compilation Show 2",
+    "guests":"N/A",
+    "winner":"N/A",
+    "airdate":"1/4/2013"
+  },
+  {
+    "episode":"17 (136)",
+    "title":"Jolly",
+    "guests":"Rob Brydon, Tim Vine, Julia Zemiro",
+    "winner":"Alan Davies",
+    "airdate":"11 January 2013, 12 January 2013 (XL edition)"
+  },
+  {
+    "episode":"18 (137)",
+    "title":"Just the Job",
+    "guests":"Jeremy Clarkson, Jason Manford, Sandi Toksvig",
+    "winner":"Sandi Toksvig",
+    "airdate":"25 August 2013, 31 August 2013 (XL edition), 24 July 2013 (in Australia)"
+  },
+
+  {
+    "episode":"1 (138)",
+    "title":"Knees and Knockers",
+    "guests":"David Mitchell, Sara Pascoe, Jack Whitehall",
+    "winner":"Sara Pascoe",
+    "airdate":"6 September 2013, 8 September 2013 (XL edition)"
+  },
+  {
+    "episode":"2 (139)",
+    "title":"Kit and Kaboodle",
+    "guests":"Noel Fielding, Colin Lane, Ross Noble",
+    "winner":"Ross Noble",
+    "airdate":"13 September 2013, 15 September 2013 (XL edition)"
+  },
+  {
+    "episode":"3 (140)",
+    "title":"K-Folk",
+    "guests":"Phill Jupitus, Katherine Ryan, Josh Widdicombe",
+    "winner":"Alan Davies",
+    "airdate":"20 September 2013, 22 September 2013 (XL edition)"
+  },
+  {
+    "episode":"4 (141)",
+    "title":"Knits and Knots",
+    "guests":"David Mitchell, Ross Noble, Sue Perkins",
+    "winner":"David Mitchell",
+    "airdate":"27 September 2013, 29 September 2013 (XL edition)"
+  },
+  {
+    "episode":"5 (142)",
+    "title":"Kings",
+    "guests":"Bill Bailey, Jimmy Carr, Jeremy Clarkson",
+    "winner":"The Audience",
+    "airdate":"4 October 2013, 6 October 2013 (XL edition)"
+  },
+  {
+    "episode":"6 (143)",
+    "title":"Killers",
+    "guests":"Jason Manford, Trevor Noah, Sandi Toksvig",
+    "winner":"Sandi Toksvig",
+    "airdate":"11 October 2013, 13 October 2013 (XL edition)"
+  },
+  {
+    "episode":"7 (144)",
+    "title":"Knowledge",
+    "guests":"Jo Brand, Jimmy Carr, Graham Linehan",
+    "winner":"Alan Davies",
+    "airdate":"18 October 2013, 20 October 2013 (XL edition)"
+  },
+  {
+    "episode":"8 (145)",
+    "title":"Keys",
+    "guests":"Bill Bailey, Tim Minchin, Isy Suttie",
+    "winner":"Bill Bailey",
+    "airdate":"25 October 2013, 27 October 2013 (XL edition)"
+  },
+  {
+    "episode":"9 (146)",
+    "title":"Kinetic",
+    "guests":"Danny Baker, Jo Brand, Marcus Brigstocke",
+    "winner":"Danny Baker",
+    "airdate":"1 November 2013, 3 November 2013 (XL edition)"
+  },
+  {
+    "episode":"10 (147)",
+    "title":"Keeps",
+    "guests":"Bill Bailey, Jason Manford, Sarah Millican",
+    "winner":"Bill Bailey",
+    "airdate":"8 November 2013, 23 December 2013 (XL edition)"
+  },
+  {
+    "episode":"11 (148)",
+    "title":"Kinky",
+    "guests":"Janet Street-Porter, Sandi Toksvig, Johnny Vegas",
+    "winner":"Sandi Toksvig",
+    "airdate":"29 November 2013, 30 November 2013 (XL edition)"
+  },
+  {
+    "episode":"12 (149)",
+    "title":"Knights and Knaves",
+    "guests":"The Rev. Richard Coles, Victoria Coren Mitchell, Sue Perkins",
+    "winner":"The Rev. Richard Coles and Victoria Coren Mitchell",
+    "airdate":"6 December 2013, 7 December 2013 (XL edition)"
+  },
+  {
+    "episode":"13 (150)",
+    "title":"Kitchen Sink",
+    "guests":"Jason Manford, Richard Osman, Victoria Wood",
+    "winner":"Alan Davies",
+    "airdate":"13 December 2013, 15 December 2013 (XL edition)"
+  },
+  {
+    "episode":"14 (151)",
+    "title":"Kris Kringle (Christmas Special)",
+    "guests":"Jo Brand, Phill Jupitus, Brendan O'Carroll",
+    "winner":"Phill Jupitus",
+    "airdate":"24 December 2013 (XL edition), 29 December 2013"
+  },
+  {
+    "episode":"15 (152)",
+    "title":"Kitsch",
+    "guests":"Jimmy Carr, Reginald D. Hunter, Sue Perkins",
+    "winner":"Jimmy Carr",
+    "airdate":"10 January 2014, 11 January 2014 (XL edition)"
+  },
+  {
+    "episode":"16 (153)",
+    "title":"Kaleidoscope",
+    "guests":"Susan Calman, Liza Tarbuck, Sandi Toksvig",
+    "winner":"Sandi Toksvig",
+    "airdate":"17 January 2014, 18 January 2014 (XL edition)"
+  },
+  {
+    "episode":"17",
+    "title":"*QI VG*: Series K Compilation Show 1",
+    "guests":"N/A",
+    "winner":"N/A",
+    "airdate":"24 January 2014[22]"
+  },
+  {
+    "episode":"18",
+    "title":"*QI VG*: Series K Compilation Show 2",
+    "guests":"N/A",
+    "winner":"N/A",
+    "airdate":"31 January 2014[23]"
+  }
+]
