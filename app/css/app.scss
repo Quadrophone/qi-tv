@@ -1,5 +1,5 @@
 
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400,700,400italic);
 
 * { box-sizing:border-box; }
 body, html {
@@ -19,53 +19,90 @@ body {
   width: 100%;
   height: 80%;
   max-height:100%;
+  clear:both;
+  float:none;
 }
 
 header {
   width: 100%;
-
+  height:7em;
+  background: #666;
+  border-bottom: 1px solid #aaa;
+  box-shadow: 2px 2px 2px rgba(50, 50, 50, 0.49);
+  @media screen and (max-width:1170px) {
+  height:10em;
 }
-
-h1 {
-  font-size: 3em;
-  color: #fafafa;
-  margin-top: 0;
-  margin:0;
-}
-
-h2 {
-  margin:0;
-  color: #fafafa;
-  text-align: center;
   @media screen and (max-width:734px) {
-    width:80%;
-    margin:0 auto;
+  height:19em;
+}
+  @media screen and (max-width:435px) {
+  height:22em;
+}
+}
+.headlines {
+  width:30%;
+  float:left;
+  @media screen and (max-width:1170px) {
+    width:100%;
+    float:none;
+    clear:both;
   }
 }
 
-h1, h2 {
+h1 {
+  font-size: 2em;
+  color: #fafafa;
+  margin:0;
+  margin-top:12px;
+}
+
+h2 {
+  font-size:1.4em;
+  margin:0;
+  color: #fafafa;
   text-align: center;
-  font-weight:400;
+}
+
+h1, h2 {  text-align: left;
+  padding-left:10px;
+  font-weight:200;
+  white-space: nowrap;
+  font-weight: 300;
+  @media screen and (max-width:1170px) {
+    text-align: center;
+    padding-left:0;
+    margin:0;
+  }
+  @media screen and (max-width:460px) {
+    white-space: normal;
+  }
 }
 
 div.search {
   text-align: center;
   padding: 1em;
-  width: 100%;
-  box-shadow: 2px 2px 2px rgba(50, 50, 50, 0.49);
-  @media screen and (max-width:734px) {
-    width:90%;
-    margin:0;
-    margin-top:1em;
-    padding:0;
+  width: 70%;
+  float:left;
+  @media screen and (max-width:1170px) {
+    width:100%;
+    float:none;
+    clear:both;
+  }
+    @media screen and (max-width:734px) {
+    width:80%;
+    margin:auto;
   }
   input {
+    float: right;
     font-size:1.2em;
     border-radius:3px;
     border:none;
     padding:5px;
     color:#555;
-    margin:0 1em;
+    margin:1em;
+    @media screen and (max-width:1170px) {
+      float:none;
+    }
     @media screen and (max-width:734px) {
       width:100%;
       max-width:600px;
@@ -150,6 +187,10 @@ span.cat {
   font-weight: 600;
 }
 
+.airdate {
+
+  font-style:italic;
+}
 .video {
   width: 70%;
   float: left;

@@ -5,4 +5,4 @@ Search episodes of the BBC's brilliant show QI by title, date, and guest; watch 
 
 Live demo here:
 
-http://quadrophone.github.io/QI-TV/app
+<a href="http://quadropone.github.io/qi-tv/app">http://quadropone.github.io/qi-tv/app</a>
