@@ -3,61 +3,53 @@
       <title>QI TV</title>
       <meta charset="utf-8">
       <meta name="author" content="James Podles">
-      <meta name="description" content="Search episodes of the BBC's brilliant show QI by title, date, and guest; watch them right in the app.">
+      <meta name="description" content="Search episodes of the BBC's brilliant show QI by title, date, and guest.">
       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
       <link rel="stylesheet" href="css/app.css"/>
       <script src="js/prefix-free.js"></script>
-
       <script src="lib/angular/angular.js"></script>
     </head>
-
-
-
     <body ng-controller="EpisodeControl">
-
       <header>
-        <h1>QI TV</h1>
-        <h2>Search, browse, and watch episodes of QI</h2>
-      </header>
-
-      <div class="container">
-       <div class="search">
-        <input type="text" placeholder="Title" ng-model="search.title">
-        <input type="text" placeholder="Air Date"  ng-model="search.airdate">
-        <input type="text" placeholder="Guest" ng-model="search.guests">
-      </div>
-      <div class="results">
-        <ul class="results"> 
-
-          <li class="episode" ng-repeat="episode in episodes | filter:search">
-            <p class="title"><span class="title">{{episode.title}}</span></p>
-            <p><span class="cat" >Guests:</span> {{episode.guests}}</p>
-            <p><span class="cat">Air Date:</span> {{episode.airdate}}</p>
-            <button class="watch" id="{{episode.title}}" ng-click="getvideo($event)">Watch</button>
-          </li>
-        </ul>
-      </div>
-      <div class="video">
-        <div class="video-container">
-          <iframe id="video" src="{{videoPlayer}}" frameborder="0" allowfullscreen></iframe>
-          <span class="placeholder">Select a video from the list</span>
+        <div class="headlines">
+          <h1>QI TV</h1>
+          <h2>Search, browse, and watch episodes of QI</h2>
         </div>
+        <div class="search">
+          <input type="text" placeholder="Guest" ng-model="search.guests">
+          <input type="text" placeholder="Air Date"  ng-model="search.airdate">
+          <input type="text" placeholder="Title" ng-model="search.title">         
+        </div>
+      </header>
+      <div class="container">
+        <div class="results">
+          <ul class="results"> 
+            <li class="episode" ng-repeat="episode in episodes | filter:search">
+              <p class="title"><span class="title">{{episode.title}} </span></p>
+              <p><span class="cat" >Guests:</span> {{episode.guests}}</p>
+              <p><span class="airdate">Aired {{episode.airdate}}</span></p>
+              <button class="watch" id="{{episode.title}}" ng-click="getvideo($event)">Watch</button>
+            </li>
+          </ul>
+        </div>
+        <div class="video">
+          <div class="video-container">
+            <iframe id="video" src="{{videoPlayer}}" frameborder="0" allowfullscreen></iframe>
+            <span class="placeholder">Select a video from the list</span>
+          </div>
+        </div>
+        <footer>
+          <span class="disclaimer">
+            QI Episode data from Wikipedia. This site does not host or stream any videos.
+          </span>
+        </footer>
       </div>
-      <footer>
-<span class="disclaimer">
-  QI Episode data from Wikipedia. This site does not host or stream any videos.
-  </span>
-</footer>
-    </div>
-
-
-    <script src="lib/angular/angular.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script src="js/app.js"></script>
-    <script src="js/services.js"></script>
-    <script src="js/controllers.js"></script>
-    <script src="js/filters.js"></script>
-    <script src="js/directives.js"></script>
-
-  </body>
-  </html>
+      <script src="lib/angular/angular.js"></script>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+      <script src="js/app.js"></script>
+      <script src="js/services.js"></script>
+      <script src="js/controllers.js"></script>
+      <script src="js/filters.js"></script>
+      <script src="js/directives.js"></script>
+    </body>
+    </html>
