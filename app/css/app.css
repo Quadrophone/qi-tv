@@ -15,26 +15,23 @@ body {
 
 .container {
   width: 100%;
-  height: 80%;
+  height: 100%;
   max-height: 100%;
   clear: both;
   float: none; }
 
 header {
   width: 100%;
-  height: 7em;
+  height: 3em;
   background: #666;
   border-bottom: 1px solid #aaa;
   box-shadow: 2px 2px 2px rgba(50, 50, 50, 0.49); }
   @media screen and (max-width: 1170px) {
     header {
-      height: 10em; } }
+      height: 7em; } }
   @media screen and (max-width: 734px) {
     header {
-      height: 19em; } }
-  @media screen and (max-width: 435px) {
-    header {
-      height: 22em; } }
+      height: 14em; } }
 
 .headlines {
   width: 30%;
@@ -49,8 +46,14 @@ h1 {
   font-size: 2em;
   color: #fafafa;
   margin: 0;
-  margin-top: 12px; }
-
+ }
+h1 img, .placeholder img {
+  width:30px;
+  height:auto;
+  position:relative;
+  top: 5px;
+  margin-right: 4px;
+}
 h2 {
   font-size: 1.4em;
   margin: 0;
@@ -74,7 +77,6 @@ h1, h2 {
 
 div.search {
   text-align: center;
-  padding: 1em;
   width: 70%;
   float: left; }
   @media screen and (max-width: 1170px) {
@@ -93,7 +95,7 @@ div.search {
     border: none;
     padding: 5px;
     color: #555;
-    margin: 1em; }
+    margin: .4em; }
     @media screen and (max-width: 1170px) {
       div.search input {
         float: none; } }
@@ -111,7 +113,7 @@ label.search {
 
 div.results {
   width: 30%;
-  height: 100%;
+height: 100%;
   float: left;
   overflow-y: scroll;
   overflow-x: hidden; }
@@ -156,7 +158,7 @@ button.watch {
   color: #fafafa;
   text-shadow: none;
   border: none;
-  padding: 5px 10px;
+  padding: 10px 12px;
   border-radius: 4px;
   font-weight: 700;
   margin-top: 1em; }
@@ -206,8 +208,9 @@ span.cat {
 
 footer {
   clear: both;
-  padding: 1em;
+  padding-left:10px;
   font-style: italic;
+  width:100%;
   color: #fafafa;
   border-top: 1px solid #aaa;
   background-color: #666; }
