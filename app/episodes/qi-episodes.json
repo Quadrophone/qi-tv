@@ -1172,5 +1172,131 @@
     "guests":"N/A",
     "winner":"N/A",
     "airdate":"31 January 2014[23]"
+  },
+  {
+    "episode":"1 (154)",
+    "title":"L-Animals",
+    "guests":"Colin Lane, Sarah Millican, Ross Noble",
+    "winner":"Ross Noble",
+    "airdate":"3 October 2014"
+  },
+  {
+    "episode":"2 (155)",
+    "title":"Location, Location, Location",
+    "guests":"Aisling Bea, Jason Manford, Johnny Vegas",
+    "winner":"Jason Manford",
+    "airdate":"10 October 2014"
+  },
+  {
+    "episode":"3 (156)",
+    "title":"Literature",
+    "guests":"Victoria Coren Mitchell, Lloyd Langford, Jack Whitehall",
+    "winner":"Victoria Coren Mitchell",
+    "airdate":"17 October 2014"
+  },
+  {
+    "episode":"4 (157)",
+    "title":"Levity",
+    "guests":"Sue Perkins, Frank Skinner, Josh Widdicombe",
+    "winner":"Alan Davies",
+    "airdate":"24 October 2014"
+  },
+  {
+    "episode":"5 (158)",
+    "title":"Lenses",
+    "guests":"Jo Brand, Phill Jupitus, Josh Widdicombe",
+    "winner":"Phill Jupitus",
+    "airdate":"31 October 2014"
+  },
+  {
+    "episode":"6 (159)",
+    "title":"Liblabble",
+    "guests":"Bill Bailey, The Rev. Richard Coles, Sara Pascoe",
+    "winner":"Alan Davies",
+    "airdate":"7 November 2014"
+  },
+  {
+    "episode":"7 (160)",
+    "title":"Lethal",
+    "guests":"Bill Bailey, Jason Manford, Sandi Toksvig",
+    "winner":"Sandi Toksvig",
+    "airdate":"21 November 2014"
+  },
+  {
+    "episode":"8 (161)",
+    "title":"Lovely",
+    "guests":"Aisling Bea, Tony Hawks, Josh Widdicombe",
+    "winner":"Tony Hawks",
+    "airdate":"28 November 2014"
+  },
+  {
+    "episode":"9 (162)",
+    "title":"Ladies and Gents",
+    "guests":"Kathy Lette, Ross Noble, Sue Perkins",
+    "winner":"Ross Noble",
+    "airdate":"5 December 2014"
+  },
+  {
+    "episode":"10 (163)",
+    "title":"Lying",
+    "guests":"Adam Hills, Sara Pascoe, Jack Whitehall",
+    "winner":"Adam Hills",
+    "airdate":"12 December 2014"
+  },
+  {
+    "episode":"11 (164)",
+    "title":"Lumped Together",
+    "guests":"Ronni Ancona, Jimmy Carr, David Mitchell",
+    "winner":"Alan Davies",
+    "airdate":"19 December 2014"
+  },
+  {
+    "episode":"12 (165)",
+    "title":"No-L[fn 3]",
+    "guests":"Bill Bailey, Jimmy Carr, Carrie Fisher",
+    "winner":"Jimmy Carr",
+    "airdate":"25 December 2014"
+  },
+  {
+    "episode":"13 (166)",
+    "title":"Lucky Losers",
+    "guests":"Danny Baker, Jeremy Clarkson, Sandi Toksvig",
+    "winner":"Danny Baker[fn 29]",
+    "airdate":"2 January 2015"
+  },
+  {
+    "episode":"14 (167)",
+    "title":"Little and Large",
+    "guests":"Phill Jupitus, Richard Osman, Lucy Porter",
+    "winner":"Lucy Porter",
+    "airdate":"9 January 2015"
+  },
+  {
+    "episode":"15 (168)",
+    "title":"Long Lost",
+    "guests":"Jimmy Carr, Claudia O'Doherty, Suggs",
+    "winner":"Claudia O'Doherty",
+    "airdate":"16 January 2015"
+  },
+  {
+    "episode":"16 (169)",
+    "title":"Landmarks",
+    "guests":"Jo Brand, Colin Lane, David Mitchell",
+    "winner":"Colin Lane",
+    "airdate":"23 January 2015"
+  },
+  {
+    "episode":"17",
+    "title":"*QI VG*: Series L Compilation Show 1",
+    "guests":"N/A",
+    "winner":"N/A",
+    "airdate":"30/01/2015"
+  },
+  {
+    "episode":"18",
+    "title":"*QI VG*: Series L Compilation Show 2",
+    "guests":"N/A",
+    "winner":"N/A",
+    "airdate":"31/01/2015"
   }
 ]
